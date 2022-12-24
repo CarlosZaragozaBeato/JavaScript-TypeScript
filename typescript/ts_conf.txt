@@ -1,0 +1,3 @@
+npx tsc --init --rootDir src --esModu
+leInterop --resolveJsonModule --lib es6 --module commonjs --allowjs true --noImp
+licitAny true
